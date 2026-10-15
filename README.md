@@ -1,0 +1,2 @@
+# pectaa-campus-
+Pecta internship
